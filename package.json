@@ -1,8 +1,8 @@
 {
     "name": "vscode-dark",
     "displayName": "VSCODE-DARK",
-    "description": "VSCODE Dark Theme",
-    "version": "1.0.4",
+    "description": "VSCODE Dark Color Theme",
+    "version": "1.0.5",
     "publisher": "COGSMITH",
     "author": {
       "name": "David Adam Coffey @ COGSMITH",
