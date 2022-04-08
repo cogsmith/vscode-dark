@@ -2,7 +2,7 @@
     "name": "vscode-dark",
     "displayName": "VSCODE-DARK",
     "description": "VSCODE Dark Theme",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "COGSMITH",
     "author": {
       "name": "David Adam Coffey @ COGSMITH",
@@ -10,10 +10,6 @@
       "email": "dac@cogsmith.com"
     },
     "icon": "theme/ICON.png",
-    "galleryBanner": {
-      "color": "#00364A",
-      "theme": "dark"
-    },
     "homepage": "https://github.com/cogsmith/vscode-dark",
     "repository": {
       "type": "git",
