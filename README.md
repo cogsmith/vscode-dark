@@ -2,4 +2,4 @@
 
 VSCODE Dark Color Theme
 
-![SCREENCAP](SCREENCAP.png)
+![SCREENCAP](demo/SCREENCAP.png)

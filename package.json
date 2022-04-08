@@ -9,7 +9,7 @@
       "url": "https://cogsmith.com",
       "email": "dac@cogsmith.com"
     },
-    "icon": "ICON.PNG",
+    "icon": "./theme/ICON.png",
     "galleryBanner": {
       "color": "#1f172b",
       "theme": "dark"
