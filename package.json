@@ -2,14 +2,14 @@
     "name": "vscode-dark",
     "displayName": "VSCODE-DARK",
     "description": "VSCODE Dark Theme",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "COGSMITH",
     "author": {
       "name": "David Adam Coffey @ COGSMITH",
       "url": "https://cogsmith.com",
       "email": "dac@cogsmith.com"
     },
-    "icon": "./theme/ICON.png",
+    "icon": "theme/ICON.png",
     "galleryBanner": {
       "color": "#1f172b",
       "theme": "dark"
@@ -42,7 +42,7 @@
         {
           "label": "VSCODE-DARK",
           "uiTheme": "vs-dark",
-          "path": "./theme/VSCODE-DARK.json"
+          "path": "theme/VSCODE-DARK.json"
         }
       ]
     }
