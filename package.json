@@ -1,0 +1,49 @@
+{
+    "name": "vscode-dark",
+    "displayName": "VSCODE-DARK",
+    "description": "VSCODE Dark Theme",
+    "version": "1.0.1",
+    "publisher": "COGSMITH",
+    "author": {
+      "name": "David Adam Coffey @ COGSMITH",
+      "url": "https://cogsmith.com",
+      "email": "dac@cogsmith.com"
+    },
+    "icon": "ICON.PNG",
+    "galleryBanner": {
+      "color": "#1f172b",
+      "theme": "dark"
+    },
+    "homepage": "https://github.com/cogsmith/vscode-dark",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/cogsmith/vscode-dark"
+    },
+    "bugs": {
+      "url": "https://github.com/cogsmith/vscode-dark/issues"
+    },
+    "engines": {
+      "vscode": "^1.51.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "keywords": [
+      "Theme",
+      "Themes",
+      "Dark",
+      "Retro",
+      "80s",
+      "Alternative",
+      "Night"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "VSCODE-DARK",
+          "uiTheme": "vs-dark",
+          "path": "./theme/VSCODE-DARK.json"
+        }
+      ]
+    }
+  }

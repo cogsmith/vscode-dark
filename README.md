@@ -1,2 +1,5 @@
-# vscode-dark
-VSCODE Color Theme Dark
+# VSCODE-DARK
+
+VSCODE Dark Color Theme
+
+![SCREENCAP](SCREENCAP.png)
